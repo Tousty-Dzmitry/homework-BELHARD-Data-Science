@@ -18,11 +18,11 @@ for i in range(1,11):
 print(numbers_list)
 
 # 5.Написать функцию, которая принимает список чисел и возвращает их сумму.
-def summa(num):
-    return(sum(num))
+def summa(b):
+    return(sum(b))
 
 num = [366, 67]
-print(summa(b))
+print(summa(num))
 
 # 6.Создать множество из 5 разных чисел, затем добавить в него новое число и вывести на экран.
 numbers_set = {12, 23, 34, 45, 56}
